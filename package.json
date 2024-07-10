@@ -1,0 +1,10 @@
+{ 
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "sponsorkit --dir ."
+  },
+  "devDependencies": {
+    "sponsorkit": "latest"
+  }
+}
