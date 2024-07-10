@@ -66,7 +66,7 @@ export default defineConfig({
       renderer: 'circles',
       name: 'sponsors-circles',
       width: 1300,
-      includePastSponsors: true,
+      includePastSponsors: false,
     },
   ],
 })
