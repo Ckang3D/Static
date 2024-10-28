@@ -1,0 +1,16 @@
+{
+  "name": "Drive | Bu33y",
+  "short_name": "Drive | Bu33y",
+  "description": "Ckang3D's public cloud storage",
+  "icons": [
+    {
+      "src": "https://bu33y.com/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#131312",
+  "background_color": "#3ba5f9"
+}
